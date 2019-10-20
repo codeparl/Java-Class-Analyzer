@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.awt.Color">
+  <int>236</int>
+  <int>245</int>
+  <int>248</int>
+ </object>
+ <object class="java.awt.Color">
+  <int>0</int>
+  <int>0</int>
+  <int>0</int>
+ 
+ </object>
+ <object class="java.awt.Color">
+  <int>250</int>
+  <int>250</int>
+  <int>250</int>
+ </object>
+ <object class="java.awt.Color">
+  <int>0</int>
+  <int>0</int>
+  <int>255</int>
+ </object>
+ <object class="java.awt.Color">
+  <int>255</int>
+  <int>255</int>
+  <int>255</int>  
+ </object>
+ <object class="java.awt.Color">
+  <int>117</int>
+  <int>117</int>
+  <int>117</int>
+ </object>
+  <object class="java.awt.Color">
+  <int>255</int>
+  <int>255</int>
+  <int>0</int>
+ </object>
+</java>

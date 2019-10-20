@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Sky</string>
+   <object class="java.awt.Color">
+    <int>236</int>
+    <int>245</int>
+    <int>248</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Gray</string>
+   <object class="java.awt.Color">
+    <int>128</int>
+    <int>128</int>
+    <int>128</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Cyan</string>
+   <object class="java.awt.Color">
+    <int>0</int>
+    <int>255</int>
+    <int>255</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>mwanaisha</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>255</int>
+    <int>0</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Blue</string>
+   <object class="java.awt.Color">
+    <int>0</int>
+    <int>0</int>
+    <int>255</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Magenta</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>0</int>
+    <int>255</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Black</string>
+   <object class="java.awt.Color">
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Dark Gray</string>
+   <object class="java.awt.Color">
+    <int>64</int>
+    <int>64</int>
+    <int>64</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Orange</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>200</int>
+    <int>0</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Red</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>0</int>
+    <int>0</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>White</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>255</int>
+    <int>255</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Pink</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>175</int>
+    <int>192</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Yellow</string>
+   <object class="java.awt.Color">
+    <int>255</int>
+    <int>255</int>
+    <int>0</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Light Gray</string>
+   <object class="java.awt.Color">
+    <int>192</int>
+    <int>192</int>
+    <int>192</int>
+    <int>255</int>
+   </object>
+  </void>
+  <void method="put">
+   <string>Green</string>
+   <object class="java.awt.Color">
+    <int>0</int>
+    <int>255</int>
+    <int>0</int>
+    <int>255</int>
+   </object>
+  </void>
+ </object>
+</java>
